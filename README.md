@@ -27,6 +27,8 @@ https://www.kaggle.com/ashaabrizvi/fifa-eda-plotly
 
 ![](screenshots/10.png)
 
+![](screenshots/11.png)
+
 For Other Insights, Please have a look at the complete Notebook.
 
 
