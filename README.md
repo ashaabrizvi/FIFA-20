@@ -37,7 +37,7 @@ Here you will find Exploratory Data Analysis with both Seaborn and Plotly.
 
 ![](screenshots/11.png)
 
-For Other Insights, Please have a look at the complete Notebook - https://github.com/ashaabrizvi/FIFA-20/blob/master/fifa-eda-seaborn.ipynb
+For code and other insights, Please have a look at the complete Notebook - https://github.com/ashaabrizvi/FIFA-20/blob/master/fifa-eda-seaborn.ipynb
 
 
 
