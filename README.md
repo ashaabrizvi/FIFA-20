@@ -33,8 +33,6 @@ Here you will find Exploratory Data Analysis with both Seaborn and Plotly.
 
 ![](screenshots/e.png)
 
-![](screenshots/9.png)
-
 ![](screenshots/d.png)
 
 ![](screenshots/11.png)
